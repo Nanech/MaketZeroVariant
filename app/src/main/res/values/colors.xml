@@ -5,10 +5,19 @@
     <color name="purple_700">#FF3700B3</color>
     <color name="teal_200">#FF03DAC5</color>
     <color name="teal_700">#FF018786</color>
-    <color name="black">#FF000000</color>
+
 
     <!--    the main colours for use-->
+    <color name="black">#FF000000</color>
+    <color name="black70">#B3000000</color>
+    
     <color name="white">#FFFFFFFF</color>
+    <color name="white90">#F2FFFFFF</color>
+    <color name="white85">#D9FFFFFF</color>
+    <color name="white80">#CCFFFFFF</color>
+    <color name="white30">#4DFFFFFF</color>
+    <color name="white75">#BFFFFFFF</color>
+
     <color name="textpink">#CB344E</color>
     <color name="subtext">#C3A4A4</color>
     
